@@ -80,6 +80,3 @@ A results-driven Software Engineer with **10+ years of experience** building sca
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riyaz.ah18@gmail.com)
 
 ---
-
-## 📊 GitHub Stats
-<!-- Add GitHub Readme Stats cards here -->
