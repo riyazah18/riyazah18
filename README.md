@@ -1,79 +1,87 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
-<h3 align="center">Technical Consultant | Java | Spring Boot | Microservices | Event-Driven Architecture | Cloud</h3>
+<h3 align="center">
+Technical Consultant | Java | Spring Boot | Microservices | Event-Driven Architecture | Cloud
+</h3>
 
 ---
 
-<!-- Short summary -->
-A results-driven Software Engineer with **10+ years of experience** building scalable backend systems, driving technical excellence, and delivering high-impact solutions for enterprise clients.
+A results-driven Software Engineer with **10+ years of experience** building scalable backend systems and delivering high-impact enterprise solutions.
 
-📌 I help design and implement **high-performance microservices, event-driven systems, and cloud-native architectures** that solve real business problems.
+📌 I design and implement **high-performance microservices, event-driven systems, and cloud-native architectures** that solve real business problems.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently focused on **enterprise backend systems, scalable architecture, and cloud solutions**
-- 👨‍💻 I write clean, maintainable code with emphasis on performance and best practices
-- 🤝 Skilled in leading teams and mentoring developers
-- 💬 Ask me about Java, Spring Boot, Microservices, Kafka, REST APIs, or Cloud architecture
-- 📫 Connect via **LinkedIn / GitHub / Email** (links below)
+- 🔭 Focused on **enterprise backend systems & scalable architectures**
+- 👨‍💻 Passionate about clean, maintainable, high-performance code
+- 🤝 Experienced in **technical leadership & mentoring**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, REST APIs, Cloud**
+- 📫 Reach me via **LinkedIn / GitHub / Email**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
-### Architecture & System Design
+---
+
+### 🧱 Architecture & System Design
 ![Microservices](https://img.shields.io/badge/Microservices-1F8ACB?style=flat)
-![Event-Driven](https://img.shields.io/badge/Event%20Driven-FF6C37?style=flat)
-![Service-Oriented Architecture (SOA)](https://img.shields.io/badge/Event%20Driven-FF6C37?style=flat)
-![REST & SOAP-based integrations](https://img.shields.io/badge/Event%20Driven-FF6C37?style=flat)
-![Scalable & fault-tolerant system design](https://img.shields.io/badge/Event%20Driven-FF6C37?style=flat)
+![SOA](https://img.shields.io/badge/SOA-Service%20Oriented-6A5ACD?style=flat)
+![Event Driven](https://img.shields.io/badge/Event-Driven%20Architecture-FF6C37?style=flat)
+![REST](https://img.shields.io/badge/REST-0096D6?style=flat)
+![SOAP](https://img.shields.io/badge/SOAP-7B68EE?style=flat)
+![Scalable Systems](https://img.shields.io/badge/Scalable%20%26%20Fault-Tolerant-2E8B57?style=flat)
 
-### Cloud & DevOps
-![OpenShift](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+---
 
-### Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle)
-![MSSQL](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=mssql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Cassandra](https://img.shields.io/badge/Cassandra-12879C?style=flat&logo=apachecassandra)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Frontend & Others
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![AngularJS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=angularjs)
-![Angular](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=angular)
+---
+
+### 🗄️ Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
+
+---
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ---
 
 ## 💡 What I Do
 
-- 📌 Build **production-ready backend systems** in Java and Spring Boot
-- 🔧 Design **Microservices & Event-Driven Architectures** with message brokers
-- ☁️ Build **cloud-native solutions** on AWS / Azure
-- 🛠️ Automate CI/CD pipelines (Jenkins, Bamboo)
-- 🤝 Lead developer teams and mentor junior engineers
+- 📌 Build **production-ready Java & Spring Boot backend systems**
+- 🔧 Design **Microservices & Event-Driven Architectures**
+- ☁️ Deliver **cloud-native enterprise solutions**
+- 🛠️ Implement **CI/CD pipelines** (Jenkins, Bamboo)
+- 🤝 Lead teams & mentor engineers
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin-username>)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/<your-github-username>)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<your-email@example.com>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
 ## 📊 GitHub Stats
-
-<!-- GitHub Readme Stats Cards: top languages and user stats -->
-<!-- Paste shields or GitHub stats cards here -->
-
+<!-- Add GitHub Readme Stats cards here -->
