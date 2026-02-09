@@ -27,17 +27,21 @@ A results-driven Software Engineer with **10+ years of experience** building sca
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
-### Architecture
+### Architecture & System Design
 ![Microservices](https://img.shields.io/badge/Microservices-1F8ACB?style=flat)
 ![Event-Driven](https://img.shields.io/badge/Event%20Driven-FF6C37?style=flat)
+![Service-Oriented Architecture (SOA)](https://img.shields.io/badge/Event%20Driven-FF6C37?style=flat)
+![REST & SOAP-based integrations](https://img.shields.io/badge/Event%20Driven-FF6C37?style=flat)
+![Scalable & fault-tolerant system design](https://img.shields.io/badge/Event%20Driven-FF6C37?style=flat)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![OpenShift](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 ### Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle)
+![MSSQL](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=mssql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Cassandra](https://img.shields.io/badge/Cassandra-12879C?style=flat&logo=apachecassandra)
 
@@ -45,6 +49,8 @@ A results-driven Software Engineer with **10+ years of experience** building sca
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![AngularJS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=angularjs)
+![Angular](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=angular)
 
 ---
 
