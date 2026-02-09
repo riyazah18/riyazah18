@@ -7,6 +7,7 @@ I help enterprises design and build scalable, high-performance, and resilient sy
 With 10+ years of experience in Java backend engineering, I’ve worked as a Principal Software Engineer and Senior Consultant, delivering enterprise-grade solutions across multiple domains. I enjoy leading teams, designing clean architectures, and solving complex business problems with simple, elegant technology solutions.
 
 🧠 Core Expertise
+
 🏢 Business Domains
 
 B2B & B2C Enterprise Applications
